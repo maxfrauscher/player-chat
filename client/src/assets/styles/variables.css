@@ -1,0 +1,38 @@
+:root {
+
+    --border-shadow: rgba(1,1,1,0.1);
+    --border-empty: rgba(0,0,0,0);
+
+    --mlight: white;
+    --mid-light:#ffeacb;
+
+    --mdark: #683c34;
+    --mid-dark:#844c43;
+
+    --blackish:#1f1f1f;
+
+    /* --------------------------------- */
+
+    --font-family:                    'VT323', monospace;
+    --input-font-size:                20px;
+    --input-font-size-large:          26px;
+
+    --text-color-black:               var(--blackish);
+
+    --text-color-dark:                var(--mlight);
+    --text-color-light:               var(--mdark);
+
+    --background-color-dark:          var(--mlight);
+
+    --background-color-lighter-dark:  var(--mid-dark);
+    --background-color-light:         var(--mdark);
+
+    --button-color-dark:              var(--mdark) !important;
+
+    --hover-color-dark:               var(--mid-dark) !important;
+    --hover-color-light:              var(--mlight) !important;
+}
+
+
+
+
