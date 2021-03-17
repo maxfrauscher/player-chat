@@ -1,4 +1,4 @@
-## Start Server and Client seperatly
+## Start server and client seperatly
 
-#Server: node .\index.js
-#Client: npm run serve
+<p><strong>start server: </strong> node .\index.js </p>
+<p><strong>start client: </strong> npm run serve </p>
